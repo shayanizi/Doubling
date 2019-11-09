@@ -17,5 +17,5 @@ class Doubling:
 d=Doubling(float(input("Insert your Balance >> ")))
 d2=Doubling.cal(d)
 print("You have Nine levels\n")
-print("Start with the latest issue at every level you lose your business\t ")
-print("Otherwise you win the trade and go to the next level\n\t")
+print("Start with the latest issue at every level you win your business\t ")
+print("Otherwise you lose the trade and go to the next level\n\t")
